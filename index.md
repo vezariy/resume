@@ -35,3 +35,33 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+                                                                РЕЗЮМЕ						
+ 		
+                          Камран Гашими
+                          Дата рождения: 14 ноября 1998 г.
+                          Телефон: (051) 579 60 98
+                          E-mail: vezariyy@gmail.com
+
+
+Образование:
+2016-2020г. – Азербайджанский Государственный Экономический Университет, Специальность – Информационные Технологии. Инженер-программист.
+Навыки:
+- Адаптивная, кросс-браузерная верстка (HTML5,CSS3)
+
+- CSS-процессоры (LESS, SASS, SCSS);
+- Photoshop, Premiere Pro; 
+
+- Git;
+
+- JavaScript(React, jQuery) на уровне добавления и корректировки (слайдеры, параллакс, JS анимации и тд.);
+
+- Bootstrap;
+
+- Есть опыт верстки под WordPress;
+-Microsoft Office
+Знание языков:
+•	Английский –  выше среднего
+•	Русский - отлично
+•	Азербайджанский - отлично
